@@ -37,6 +37,7 @@ git clone https://github.com/yourusername/taskmaster-pro.git
 
 2. Install dependencies
 ```bash
+cd todo-app
 npm install
 ```
 
